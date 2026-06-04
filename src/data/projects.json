@@ -15,11 +15,19 @@
       },
       "members": [
         { "devId": "dev-001", "role": "Fullstack & API" },
-        { "devId": "", "role": "" }
+        { "devId": "dev-028", "role": "Data" },
+        { "devId": "dev-010", "role": "Data & CSS" },
+        { "devId": "dev-022", "role": "Fullstack" }
       ],
       "stack": {
-        "frontend": ["HTML5", "CSS3", "Javascript"],
-        "backend": ["Node.js"]
+        "frontend": [
+          "HTML5",
+          "CSS3",
+          "Javascript"
+        ],
+        "backend": [
+          "Node.js"
+        ]
       },
       "features": [
         "Recherche",
@@ -38,13 +46,18 @@
         "demo": null,
         "github": "https://github.com/DodgeElfry/portaildev"
       },
-      "thumbnail": "../assets/projects/devconnect/logo.png",
+      "thumbnail": "/public/projects/devconnect/logo.png",
       "screenshots": [
-        "../assets/projects/devconnect/home.png",
-        "../assets/projects/devconnect/all_devs.png",
-        "../assets/projects/devconnect/all_projects.png"
+        "/public/projects/devconnect/home.png",
+        "/public/projects/devconnect/all_devs.png",
+        "/public/projects/devconnect/all_projects.png"
       ],
-      "tags": ["web", "portfolio", "développeur", "projets"],
+      "tags": [
+        "web",
+        "portfolio",
+        "développeur",
+        "projets"
+      ],
       "startDate": "2026-05-15",
       "endDate": "unknown",
       "duration": "unknown",
@@ -52,58 +65,163 @@
       "isFeatured": true
     },
     {
-      "id": "proj-002",
-      "name": "",
-      "slug": "",
-      "tagline": "",
-      "description": "",
-      "status": "",
-      "visibility": "",
+      "id": "proj-003",
+      "name": "DUDU",
+      "slug": "dudu",
+      "tagline": "Plateforme d'inscription et de gestion d'évènements",
+      "description": "...",
+      "status": "En développement",
+      "visibility": "privé",
       "team": {
-        "id": "",
-        "name": "",
-        "color": ""
+        "id": "dox",
+        "name": "Dox",
+        "color": "#A1B1CD"
       },
       "members": [
-        { "devId": "", "role": "" },
-        { "devId": "", "role": "" }
+        {
+          "devId": "dev-001",
+          "role": "Developpeur Fullstack"
+        }
       ],
       "stack": {
-        "frontend": [""],
-        "backend": [""]
+        "frontend": [
+          "HTML5",
+          "CSS3",
+          "Typescript"
+        ],
+        "backend": [
+          "Node.js"
+        ]
       },
       "features": [
-        ""
+        "Recherche",
+        "Localisation",
+        "Filtres",
+        "Authentification",
+        "Paiements",
+        "Dashboard",
+        "Création d'activité"
       ],
-      "metrics": {
-        "linesOfCode": "",
-        "commits": "",
-        "openIssues": "",
-        "closedIssues": "",
-        "testCoverage": ""
-      },
-      "links": {
-        "demo": "",
-        "github": ""
-      },
-      "thumbnail": "",
+      "thumbnail": "/public/projects/dudu/logo.png",
       "screenshots": [
-        "",
-        "",
-        ""
+        "/public/projects/dudu/home.png",
+        "/public/projects/dudu/activite.png",
+        "/public/projects/dudu/profile.png"
       ],
-      "tags": [""],
-      "startDate": "",
-      "endDate": "",
-      "duration": "",
-      "client": "",
-      "isFeatured": ""
-    }
+      "tags": [
+        "web",
+        "portfolio",
+        "développeur",
+        "projets"
+      ],
+      "startDate": "2026-04-01",
+      "endDate": "unknown",
+      "duration": "unknown",
+      "client": "Dodge Elfry NGUIA",
+      "isFeatured": true
+    },
+    {
+     "id": "proj-022",
+     "name": "Consopilot",
+     "slug": "consopilot",
+     "tagline": "Plateforme de controle de consommation en eau et en energie",
+     "description": "...",
+     "status": "En développement",
+     "visibility": "privé",
+     "team": {
+      "id": "marva",
+      "name": "marva",
+      "color": "#0000FF"
+     },
+     "members": [
+      {
+        "devId": "dev-001",
+        "role": "Developpeur Fullstack"
+      }
+     ],
+     "stack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "Typescript"
+      ],
+      "backend": [
+        "Node.js"
+      ]
+     },
+     "features": [
+      "Recherche",
+      "Localisation",
+      "Filtres",
+      "consultation",
+      "Paiements",
+      "Dashboard"
+      ]
+    },
+    {
+    "id": "proj-004",
+    "name": "INFO-UNIVERS",
+    "slug": "info-univers",
+    "tagline": "Plateforme d'information et de ressources pour les étudiants en informatique",
+    "description": "Une plateforme qui fournit des informations, des ressources et des opportunités pour les étudiants en informatique, les aidant à naviguer dans leur parcours académique et professionnel.",
+    "status": "En développement",
+    "visibility": "privé",
+    "team": {
+      "id": "anonime",
+      "name": "Anonime",
+      "color": "#FF5733"
+    },
+    "members": [
+      {
+        "devId": "dev-028",
+        "role": "Développeur Fullstack"
+      }
+    ],
+    "stack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "Javascript"
+      ],
+      "backend": [
+        "Node.js"
+      ]
+    },
+    "features":[
+
+    ],
+    "thumbnail": "/public/projects/info-univers/logo.png",
+    "screenshots": [
+      "/public/projects/info-univers/home.png",
+      "/public/projects/info-univers/resources.png",
+      "/public/projects/info-univers/opportunities.png"
+    ],
+    "tags": [
+      "web",
+      "information",
+      "étudiants",
+      "ressources"
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "unknown",
+    "duration": "unknown",
+    "client": "Christ Jordan OBIANG",
+    "isFeatured": true
+  }
   ],
   "meta": {
-    "totalProjects": 1,
-    "statusOptions": ["mvp", "En développement", "En production", "archivé"],
-    "visibilityOptions": ["public", "privé"],
+    "totalProjects": 2,
+    "statusOptions": [
+      "mvp",
+      "En développement",
+      "En production",
+      "archivé"
+    ],
+    "visibilityOptions": [
+      "public",
+      "privé"
+    ],
     "lastUpdated": "2026-05-26"
   }
 }
+

@@ -4,7 +4,7 @@
       "id": "dev-001",
       "firstName": "Dodge Elfry",
       "lastName": "NGUIA",
-      "avatar": "../assets/avatar/dodge.png",
+      "avatar": "/public/avatars/dodge.jpg",
       "role": "Développeur full-stack",
       "team": "Team Alpha",
       "email": "nguiadodge@gmail.com",
@@ -12,7 +12,7 @@
       "bio": "Développeur web & mobile. Passionné par l'achitecture logiciel et le web design.",
       "stack": {
         "languages": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-        "tools": ["Figma", "Vite"]
+        "tools": ["Node.js", "npm", "Figma", "Vite"]
       },
       "projects": ["proj-001", "proj-003", "proj-005"],
       "socials": {
@@ -26,38 +26,184 @@
       "joinedAt": "2026-05-26"
     },
     {
-      "id": "dev-002",
-      "firstName": "",
-      "lastName": "",
-      "avatar": "../assets/avatar/x.png",
-      "role": "",
-      "team": "",
-      "email": "",
-      "location": "",
-      "bio": "",
+      "id": "dev-003",
+      "firstName": "Anoumbalamah",
+      "lastName": "dorcas",
+      "avatar": "/public/avatars/Dorcas.png",
+      "role": "Développeuse frontend",
+      "team": "Team Alpha",
+      "email": "anoumbalamahdorcas@gmail.com",
+      "location": "Libreville pk8 carrefour cenaress, Gabon",
+      "bio": "developpeseuse frontend passionnée par le design et l'ergonomie des interfaces utilisateur.",
       "stack": {
-        "languages": [""],
-        "tools": [""]
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma"]
       },
       "projects": ["proj-001", "proj-002", "proj-004"],
       "socials": {
-        "github": "",
+        "github": "https://github.com/Anoumbalamahdorcas",
         "linkedin": "",
-        "portfolio": ""
+        "portfolio": "https://Lamahdorcas.dev"
       },
-      "levelOfExperience": "",
-      "availability": "",
-      "languages": [""],
-      "joinedAt": ""
-    }
+      "levelOfExperience": "Débutante",
+      "availability": "open_to_missions",
+      "languages": ["Français"],
+      "joinedAt": "2026-05-26"
+    },
+    { 
+      "id": "dev-028",
+      "firstName": "Christ Jordan",
+      "lastName": "OBIANG",
+      "avatar": "/public/avatars/Christ.jpeg",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "christjordan53@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeur web en formation à Libreville, Gabon. Passionné par le code. En dehors du code, j'suis un jeune romancier et aussi un amateur de musique.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Vite", "GitHub", "Visual Studio Code"]
+      },
+      "projects": ["proj-001", "proj-002", "proj-004"],
+      "socials": {
+        "github": "https://github.com/JordanCode28",
+        "linkedin": "https://linkedin.com/in/christ-jordan-obiang/",
+        "portfolio": "https://jordancode28.github.io/mon_portfolio/"
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
+    },
+    {
+      "id": "dev-022",
+      "firstName": "Marva Lorene",
+      "lastName": "NSA OBOUNOU",
+      "avatar": "/public/avatars/marva.png",
+      "role": "Développeuse full-stack",
+      "team": "Team Alpha",
+      "email": "marvansa428@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web, attirée par les logiciels et la conception des projets numériques modernes.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+        "tools": ["Figma", "Vite", "Visual Studio Code", "GitHub"]
+      },
+      "projects": ["proj-001", "proj-022"],
+      "socials": {
+        "github": "https://github.com/marvansa428-dev",
+        "linkedin": "",
+        "portfolio": "https:/github.com/marvansa428-dev/portfolio-marva.git"
+      },
+      "levelOfExperience": "debutant",
+      "availability": "open to missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-27"
+    },
+    {
+      "id": "dev-010",
+      "firstName": "Fatim",
+      "lastName": "Nsangou",
+      "avatar": "/public/avatars/fatou.png",
+      "role": "Développeuse Frontend",
+      "team": "Team Alpha",
+      "email": "fatoumatansangou@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web en formation à L'école241 Passionnée du Numérique et de la Technologie",
+      "stack": {
+        "languages": ["HTML5", "CSS3","JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Visily AI"]
+      },
+      "projects": ["proj-001"],
+      "socials": {
+        "github": "https://github.com/Fatim007",
+        "linkedin": "",
+        "portfolio": "https://fatim007.github.io/Portofolio/"
+      },
+      "levelOfExperience": "Débutante",
+      "availability": "open_to_missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-27"
+    },
+    { 
+      "id": "dev-005",
+      "firstName": "Marcel Lupin",
+      "lastName": "KOMBILA MOUNDOUNGA",
+      "avatar": "/public/avatars/lupin.jpeg",
+      "role": "Développeur full-stack",
+      "team": "Team Alpha",
+      "email": "marcellupinkombila@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": " Designer ux junior, Developpeur web en formation à L'école241 passionné du Numerique d'IA et d'Intelligence Artifficielle et d'Entreprenariat",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+        "tools": ["Figma", "Vite", "Visual Studio Code", "GitHub"]
+      },
+      "projects": ["proj-001"],
+      "socials": {
+        "github": "https://github.com/Lupincode241",
+        "linkedin": "https://linkedin.com/in/Marcel-KOMBILA/",
+        "portfolio": "https://lupincode241"
+      },
+      "levelOfExperience": "debutant",
+      "availability": "open to missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-05-26"
+    },
+   {
+      "id": "dev-020",
+      "firstName": "Jeannisca",
+      "lastName": "NGUINA",
+      "avatar": "/public/avatars/Jeannisca.jpeg",
+      "role": "Développeuse frontend",
+      "team": "Team Alpha",
+      "email": "njeannisca@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web en formation à Libreville, Gabon.",
+      "stack": {
+        "languages": ["HTML5", "CSS3", "JavaScript"],
+        "tools": ["Figma", "Vite", "GitHub", "Visual Studio Code"]
+
+      },
+      "Projects": ["proj-008"],
+      "socials": {
+        "github": "https://github.com/Jeannisca",
+        "linkedin": "https://linkedin.com/in/jeannisca-9a1b4a1b2/",
+        "portfolio": "https://jeannisca.github.io/mon_portfolio/"
+
+    },
+      "levelOfExperience": "Débutante",
+        "availability": "open_to_missions",
+        "languages": ["Français", "Anglais"],
+        "joinedAt": "2026-06-01"
+     },
+     {
+      "id": "dev-667",
+      "firstName": "Sterge Dorsel",
+      "lastName": "MBADINGA MBADINGA",
+      "avatar": "/public/avatars/Sterge_Dorsel.png",
+      "role": "Développeuse Frontend",
+      "team": "Team Alpha",
+      "email": "mbadingasterge@gmail.com",
+      "location": "Libreville, Gabon",
+      "bio": "Développeuse web frontend passionnée par la création de solutions innovantes et efficaces.",
+      "stack": {
+        "languages": ["HTML5", "CSS3","JavaScript"],
+        "tools": ["Figma", "Visual Studio Code", "GitHub", "Vite", "Tailwind CSS"]
+      },
+      "projects": ["proj-007"],
+      "socials": {
+        "github": "https://github.com/Tonton-DXY",
+        "linkedin": "https://www.linkedin.com/in/sterge-dorsel-mbadinga-mbadinga-43753a322/",
+        "portfolio": "https://tonton-dxy.github.io/TontonDXY.github.io/"
+      },
+      "levelOfExperience": "Débutant",
+      "availability": "Ouvert aux missions",
+      "languages": ["Français", "Anglais"],
+      "joinedAt": "2026-06-01"
+    } 
   ],
   "teams": [
-    {
-      "id": "team-alpha",
-      "name": "Team Alpha",
-      "color": "#6366f1",
-      "focus": "Fullstack"
-    },
     {
       "id": "team-beta",
       "name": "Team Beta",
@@ -69,6 +215,12 @@
       "name": "Team Gamma",
       "color": "#f59e0b",
       "focus": "Backend"
+    },
+    {
+      "id": "dox",
+      "name": "Dox",
+      "color": "#A1B1CD",
+      "focus": "Fullstack"
     }
   ]
 }
